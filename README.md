@@ -34,8 +34,9 @@ Lastly, I optimize the performance of the portfolio using techniques such as cod
 <li>Ensuring responsiveness across different devices and screen sizes</li>
 <li>Optimizing performance through code splitting, lazy loading, and caching techniques</li>
 </ul>
-![Screenshot1](../3d_portfolio/src/ReadMePhotos/3d-portfolio-ss1.png);
-![Screenshot2](../3d_portfolio/src/ReadMePhotos/3d-portfolio-ss2.png);
-![Screenshot3](../3d_portfolio/src/ReadMePhotos/3d-portfolio-ss3.png);
-![Screenshot4](../3d_portfolio/src/ReadMePhotos/3d-portfolio-ss4.png);
-![Screenshot5](../3d_portfolio/src/ReadMePhotos/3d-portfolio-ss5.png);
+
+![ScreenShot1](./src/ReadMePhotos/3d-portfolio-ss1.jpg)
+![ScreenShot2](./src/ReadMePhotos/3d-portfolio-ss2.jpg)
+![ScreenShot3](./src/ReadMePhotos/3d-portfolio-ss3.jpg)
+![ScreenShot4](./src/ReadMePhotos/3d-portfolio-ss4.jpg)
+![ScreenShot5](./src/ReadMePhotos/3d-portfolio-ss5jpg)
