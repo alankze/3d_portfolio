@@ -40,7 +40,7 @@ Lastly, I optimize the performance of the portfolio using techniques such as cod
 ![ScreenShot2](./src/ReadMePhotos/3d-portfolio-ss2.jpg)
 ![ScreenShot3](./src/ReadMePhotos/3d-portfolio-ss3.jpg)
 ![ScreenShot4](./src/ReadMePhotos/3d-portfolio-ss4.jpg)
-![ScreenShot5](./src/ReadMePhotos/3d-portfolio-ss5jpg)
+![ScreenShot5](./src/ReadMePhotos/3d-portfolio-ss5.jpg)
 =======
 
 
