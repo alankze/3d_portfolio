@@ -34,4 +34,7 @@ Lastly, I optimize the performance of the portfolio using techniques such as cod
 <li>Ensuring responsiveness across different devices and screen sizes</li>
 <li>Optimizing performance through code splitting, lazy loading, and caching techniques</li>
 </ul>
-![3d-portfolio-ss1](https://github.com/alankze/3d_portfolio/assets/133223826/ff2b7f04-3771-41e3-86e1-2c6431c74784)
+
+
+
+![Desktop](https://github.com/alankze/3d_portfolio/assets/133223826/1c7c4d63-4bcc-4db8-8084-3d8b3d25ccb0)
